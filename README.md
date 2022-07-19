@@ -21,7 +21,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![staff directory snapshot.](./snapshot.png)
+![staff directory snapshot.](./screenshot.png)
 
 
 
