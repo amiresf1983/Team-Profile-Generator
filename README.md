@@ -21,3 +21,4 @@ The following image shows a mock-up of the generated HTML’s appearance and fun
 https://drive.google.com/file/d/1vJmnBW-WZXnT9OBovgspeXAe8pUjBbm7/view
 
 
+## Sample HTML page : Please see dis/staff.HTML
